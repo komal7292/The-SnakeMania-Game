@@ -47,13 +47,13 @@
   background-color: red;
   border: 2px solid rgb(34, 4, 34);
   transform: scale(1.02);
-  border-radius: 9px;
+  border-radius: 13px;
 }
 
 .snake {
   background-color: yellow;
   border: 0.25vmin solid white;
-  border-radius: 12px;
+  border-radius: 25px;
 }
 
 .food {
